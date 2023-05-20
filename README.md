@@ -40,9 +40,7 @@ my_bot.save_story(upload_result)
 
 - Метод `download_photo` принимает один аргумент `url`, который указывает URL-адрес фотографии, которую нужно загрузить.
 
-## Лицензия
 
-Этот проект распространяется под лицензией Apache 2.0. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
 
 # VK-Story-Group-Bot
 ## Description in English
@@ -85,7 +83,3 @@ Here is information about the arguments of some methods of the `MyVkBot` class:
 - The `get_new_messages` method takes one argument `user_id`, which specifies the user ID from whom to receive new messages.
 
 - The `download_photo` method takes one argument `url`, which specifies the URL of the photo to download.
-
-## License
-
-This project is distributed under the Apache 2.0 license. See the [LICENSE](LICENSE) file for more information.
